@@ -1,10 +1,5 @@
 # React & GraphQL Links
 
-## Instructor Info
-
-- **Eve Porcello**: [Twitter](https://twitter.com/eveporcello) | [Email](mailto:eve@moonhighway.com)
-- **Moon Highway Training**: [Moon Highway Website](https://www.moonhighway.com) | [Mailing List](http://bit.ly/moonhighway) | [Articles](https://www.moonhighway.com/articles)
-
 ## Lake Lab Activity
 
 - [Start Files](https://codesandbox.io/s/infallible-northcutt-p3b2o?file=/src/index.js)
